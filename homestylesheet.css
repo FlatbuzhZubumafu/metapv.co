@@ -1,0 +1,14 @@
+/*Header styles*/
+h1 {
+    font-size:xx-large;
+    text-align: center;
+    }
+
+/* home page styles */
+
+.hero-home {
+margin-top: 8%;
+margin-bottom: 8%;
+background-color: whitesmoke;
+align-items: center;
+}
