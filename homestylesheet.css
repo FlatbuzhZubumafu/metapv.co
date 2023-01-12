@@ -1,14 +1,29 @@
+/* top navigation header */
+.top-nav {
+    
+background-color: aliceblue;
+text-decoration: black;
+margin-left: 2%;
+padding: 2%;
+display: flex-start;
+
+}
 /*Header styles*/
 h1 {
     font-size:xx-large;
+    padding:1%;
     text-align: center;
     }
 
 /* home page styles */
 
 .hero-home {
-margin-top: 8%;
-margin-bottom: 8%;
+margin-top: 6%;
+margin-bottom: 6%;
 background-color: whitesmoke;
 align-items: center;
+}
+.hero-home-text{
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
